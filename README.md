@@ -30,7 +30,7 @@
   <img src="https://i.imgur.com/KLM1Zbw.png">
 </p>
 
-## Quick Start
+## Quick Start -- not soo quick
 
 #### 1. Library instructions
 Use our awesome components inside your own projects by running: 
